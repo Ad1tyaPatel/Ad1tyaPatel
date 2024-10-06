@@ -28,4 +28,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad1tyapatel&" alt="ad1tyapatel" /></p>
 <img src = "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<p>Watch Snake eating my github contributions...</p>
 <img src="https://raw.githubusercontent.com/Ad1tyaPatel/Ad1tyaPatel/output/snake.svg" width = 1800 alt="Snake animation" />
