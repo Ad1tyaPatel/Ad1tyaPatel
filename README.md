@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ad1tyapatel" target="blank"><img src="https://img.shields.io/twitter/follow/ad1tyapatel?logo=twitter&style=for-the-badge" alt="ad1tyapatel" /></a> </p>
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN, Problem Solving, Tech, AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
