@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/ad1tyapatel" target="blank"><img src="https://img.shields.io/twitter/follow/ad1tyapatel?logo=twitter&style=for-the-badge" alt="ad1tyapatel" /></a> </p>
 
-- 📝 I regularly write articles on [https://draft.blogger.com/profile/00530392859189008787](https://draft.blogger.com/profile/00530392859189008787)
-
 - 💬 Ask me about **MERN**
 
 <h3 align="left">Connect with me:</h3>
@@ -26,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ad1tyapatel&show_icons=true&locale=en" alt="ad1tyapatel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ad1tyapatel&" alt="ad1tyapatel" /></p>
+
 <img src = "https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
 <p>Watch Snake eating my github contributions...</p>
 <img src="https://raw.githubusercontent.com/Ad1tyaPatel/Ad1tyaPatel/output/snake.svg" width = 1500 alt="Snake animation" />
